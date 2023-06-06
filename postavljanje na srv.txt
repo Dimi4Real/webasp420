@@ -1,0 +1,6 @@
+C/inetpub/wwwroot- smestaju se sajtovi
+Start-> IIS-> Sites (u Conmections) tu se objavljuje sajt
+Visual studio -> Empty Web Application -> 1 Web Forma (aspx ekstenzija)-> Build/BuildSolution 
+Folder gde je smesteno/bin 
+Copy ceo folder-> paste u wwwroot-> IIS-> add new site-> C/inetpub/wwwroot selektirati nas sajt-> hostname=localhost-> desni klik/ menage web site-> browse 
+Na pretrazivac, localhost/WebForm1.aspx (bez cs).
